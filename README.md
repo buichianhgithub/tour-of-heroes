@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
@@ -29,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # fullstack-week4Lab
 >>>>>>> 675abf029add078cbd47c8731c7a2d148fddf14f
+=======
+# tour-of-heroes
+>>>>>>> 189f615afbfaa0852a98af8fa10610b29150c805
